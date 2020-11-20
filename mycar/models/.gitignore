@@ -2,3 +2,6 @@
 *
 # Except this file
 !.gitignore
+!donkey-RRL-example.h5
+!donkey-RRL-example.json
+!donkey-RRL-example.png
